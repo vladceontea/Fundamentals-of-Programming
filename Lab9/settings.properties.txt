@@ -1,0 +1,14 @@
+repository = 'txtfiles'
+student_file = 'students.txt'
+discipline_file = 'disciplines.txt'
+grade_file = 'grades.txt'
+#
+# repository = 'binfiles'
+# student_file = 'students.bin'
+# discipline_file = 'disciplines.bin'
+# grade_file = 'grades.bin'
+#
+# repository = 'inmemory'
+# student_file = ''
+# discipline_file = ''
+# grade_file = ''
